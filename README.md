@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hzionn&layout=compact&theme=transparent&hide=jupyter%20notebook&exclude_repo=Graph-Machine-Learning)](https://github.com/hzionn/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hzionn&layout=compact&theme=transparent&hide=jupyter%20notebook,html&exclude_repo=Graph-Machine-Learning)](https://github.com/hzionn/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzionn&show_icons=true&theme=transparent)
 
