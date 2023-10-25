@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hzionn&theme=dracula)](https://github.com/hzionn/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzionn&show_icons=true&theme=radical)
+
 <!--
 **hzionn/hzionn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
