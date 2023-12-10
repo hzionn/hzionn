@@ -1,5 +1,7 @@
 ### Hi there 👋🔥✨
 
+also view me [here](https://hzionn.github.io)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hzionn&layout=compact&theme=transparent&hide=jupyter%20notebook,html,css&exclude_repo=Graph-Machine-Learning)
 
 <!--
