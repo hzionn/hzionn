@@ -1,6 +1,6 @@
 ### Hi there 👋🔥✨
 
-also, view me [here](https://hzionn.github.io)
+also, view me [here](https://sites.google.com/view/hzionn/)
 
 - ❤️‍🔥 Interest: Artificial Intelligence, Machine Learning, Software Engineering, Backend, Bioinformatics
 - 😍 Things I love: Coffee, Band, Neovim
