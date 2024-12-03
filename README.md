@@ -45,9 +45,8 @@
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/hzionn" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
-<!-- <a target="_blank" href="https://medium.com/@zionn" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p> -->
+<a target="_blank" href="https://medium.com/@zionn" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hzionn" alt="hzionn" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hzionn&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="hzionn" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hzionn&show_icons=true&locale=en&count_private=true" alt="hzionn" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hzionn&" alt="hzionn" /></p>
