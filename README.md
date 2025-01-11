@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Zi Onn. </h1>
 
-<p>A passionate CS master from NCCU Taiwan. Studying Bioinformatics.</p>
+<p>A CS master from NCCU Taiwan. Studying Bioinformatics and AI.</p>
 
 <ul>
-  <li> ❤️‍🔥 Interest: Artificial Intelligence, Machine Learning, Software Engineering, Backend, Bioinformatics </li>
+  <li> ❤️‍🔥 Interest: Artificial Intelligence, Software Engineering, Backend, Bioinformatics, Data Science </li>
   <li> 😍 Things I love: Coffee, Band, Neovim </li>
 </ul>
 
