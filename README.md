@@ -1,15 +1,27 @@
-<h1>Hi 👋, I'm Zi Onn. </h1>
-
-<ul>
-  <li> ❤️‍🔥 Interest: LLM, Backend, Software Engineering, Bioinformatics </li>
-  <li> 😍 Things I love: Coffee, Band, Neovim </li>
-</ul>
-
-<div align="center">
 <pre>
- ____ ____ ____ ____ ____ ____ 
-||h |||z |||i |||o |||n |||n ||
-||__|||__|||__|||__|||__|||__||
-|/__\|/__\|/__\|/__\|/__\|/__\|
-</pre>
+<div align="center">
+                                                
+                                                |>>>                           
+                                                |                              
+                                            _  _|_  _                          
+                                           |;|_|;|_|;|                         
+                                           \\.    .  /                         
+                                            \\:  .  /                          
+            I'm Zi Onn.                      ||:   |                           
+                                             ||:.  |                           
+                                             ||:  .|                           
+                                             ||:   |       \,/                 
+                                             ||: , |            /`\            
+                                             ||:   |                           
+                                             ||: . |                           
+              __                            _||_   |                           
+     ____--`~    '--~~__            __ ----~    ~`---,              ___        
+-~--~                   ~---__ ,--~'                  ~~----_____-~'   `~----~~
+
+
+LLM, Backend, Software Engineering, Bioinformatics
+
+Coffee, Band, Neovim
+
 </div>
+</pre>
