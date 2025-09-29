@@ -21,7 +21,7 @@
 
 LLM, Backend, Software Engineering, Bioinformatics
 
-Coffee, Band, Neovim
+Coffee, Band
 
 </div>
 </pre>
