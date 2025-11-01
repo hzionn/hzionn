@@ -26,6 +26,7 @@ Coffee, Band
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@cs.murmur)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://hzionn.substack.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hzionn/)
+[![LinkedIn](https://img.shields.io/badge/Medium-0A66C2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hzionn/)
 
 Recent Me:
 
