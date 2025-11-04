@@ -36,4 +36,4 @@ Recent Me:
 
 Recent Blog Posts:
 - [Understanding LLMs Before Using One](https://medium.com/@hzionn/understanding-llms-before-using-one-6a7692fc2835)
-- [ex-Data Intern at Kdan](https://open.substack.com/pub/zionn/p/reflections-on-kdan-as-a-data-intern)
+- [Reflections on KDAN as a Data Intern](https://open.substack.com/pub/zionn/p/reflections-on-kdan-as-a-data-intern)
