@@ -33,4 +33,7 @@ Recent Me:
 - Build [Voice Flow](https://voice-flow-demo.vercel.app/) - A voice-first app that transcribes speech to text, translates between languages, and converts text to speech, all in one place.
 - 🏆 Won AIWave Hackathon (hosted by DigiTimes & AWS) - [Eng](https://www.digitimes.com/news/a20250602PR201/manufacturing-cloud-smart-manufacturing-amazon-market.html&chid=9), [Chinese](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000721868_WIR9RMW553G5KR903VG56)
 - Build [badge checker](https://gai-studyjam-badge-checker.vercel.app/) for Google Cloud AI Study Jam 2025
-- 💼 [ex-Data Intern at Kdan](https://open.substack.com/pub/zionn/p/reflections-on-kdan-as-a-data-intern)
+
+Recent Blog Posts:
+- [Understanding LLMs Before Using One](https://medium.com/@hzionn/understanding-llms-before-using-one-6a7692fc2835)
+- [ex-Data Intern at Kdan](https://open.substack.com/pub/zionn/p/reflections-on-kdan-as-a-data-intern)
