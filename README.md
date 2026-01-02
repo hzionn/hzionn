@@ -17,7 +17,7 @@
      ____--`~    '--~~__            __ ----~    ~`---,              ___        
 -~--~                   ~---__ ,--~'                  ~~----_____-~'   `~----~~
 
-LLM, Backend, Software Engineering, Bioinformatics
+LLM, Backend, Data, Software Engineering, Bioinformatics
 
 Coffee, Band
 </div>
