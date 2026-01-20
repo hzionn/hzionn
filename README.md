@@ -17,9 +17,9 @@
      ____--`~    '--~~__            __ ----~    ~`---,              ___        
 -~--~                   ~---__ ,--~'                  ~~----_____-~'   `~----~~
 
-LLM, Backend, Data, Software Engineering, Bioinformatics
+Data, Backend, Cloud, Software Engineering, LLMs, Bioinformatics
 
-Coffee, Band
+Coffee, Band, Vim
 </div>
 </pre>
 
@@ -27,12 +27,4 @@ Coffee, Band
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hzionn/)
 [![LinkedIn](https://img.shields.io/badge/Medium-0A66C2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hzionn/)
 
-Recent Me:
-
-- Build [Voice Flow](https://voice-flow-demo.vercel.app/) - A voice-first app that transcribes speech to text, translates between languages, and converts text to speech, all in one place.
-- 🏆 Won AIWave Hackathon (hosted by DigiTimes & AWS) - [Eng](https://www.digitimes.com/news/a20250602PR201/manufacturing-cloud-smart-manufacturing-amazon-market.html&chid=9), [Chinese](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000721868_WIR9RMW553G5KR903VG56)
-- Build [badge checker](https://gai-studyjam-badge-checker.vercel.app/) for Google Cloud AI Study Jam 2025
-
-Recent Blog Posts:
-- [Understanding LLMs Before Using One](https://medium.com/@hzionn/understanding-llms-before-using-one-6a7692fc2835)
-- [Reflections on KDAN as a Data Intern](https://open.substack.com/pub/zionn/p/reflections-on-kdan-as-a-data-intern)
+More about me: [hzionn.com](https://hzionn.com)
