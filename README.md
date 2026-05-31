@@ -27,4 +27,4 @@ Coffee, Band, Vim
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hzionn/)
 [![LinkedIn](https://img.shields.io/badge/Medium-0A66C2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hzionn/)
 
-More about me: [hzionn.com](https://hzionn.com)
+More about me: [hzionn.com](https://hzionn.com), [consumed](https://consumed.hzionn.com)
